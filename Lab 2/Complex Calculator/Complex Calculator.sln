@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Complex Calculator", "Complex Calculator\Complex Calculator.csproj", "{F0AE0D40-D90A-4FC8-A84D-5A4F62923FEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0AE0D40-D90A-4FC8-A84D-5A4F62923FEC}.Debug|x86.ActiveCfg = Debug|x86
+		{F0AE0D40-D90A-4FC8-A84D-5A4F62923FEC}.Debug|x86.Build.0 = Debug|x86
+		{F0AE0D40-D90A-4FC8-A84D-5A4F62923FEC}.Release|x86.ActiveCfg = Release|x86
+		{F0AE0D40-D90A-4FC8-A84D-5A4F62923FEC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

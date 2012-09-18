@@ -1,0 +1,5 @@
+C:\Users\Henok\Documents\College\1Fall 2012\COMPE 361\Labs\Lab 2\Complex Calculator\Complex Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Henok\Documents\College\1Fall 2012\COMPE 361\Labs\Lab 2\Complex Calculator\Complex Calculator\bin\Debug\Complex Calculator.exe
+C:\Users\Henok\Documents\College\1Fall 2012\COMPE 361\Labs\Lab 2\Complex Calculator\Complex Calculator\bin\Debug\Complex Calculator.pdb
+C:\Users\Henok\Documents\College\1Fall 2012\COMPE 361\Labs\Lab 2\Complex Calculator\Complex Calculator\obj\x86\Debug\Complex Calculator.exe
+C:\Users\Henok\Documents\College\1Fall 2012\COMPE 361\Labs\Lab 2\Complex Calculator\Complex Calculator\obj\x86\Debug\Complex Calculator.pdb
