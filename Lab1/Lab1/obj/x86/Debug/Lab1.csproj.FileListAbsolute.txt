@@ -1,5 +1,0 @@
-c:\users\henok\documents\visual studio 2010\Projects\Lab1\Lab1\bin\Debug\Lab1.exe
-c:\users\henok\documents\visual studio 2010\Projects\Lab1\Lab1\bin\Debug\Lab1.pdb
-c:\users\henok\documents\visual studio 2010\Projects\Lab1\Lab1\obj\x86\Debug\ResolveAssemblyReference.cache
-c:\users\henok\documents\visual studio 2010\Projects\Lab1\Lab1\obj\x86\Debug\Lab1.exe
-c:\users\henok\documents\visual studio 2010\Projects\Lab1\Lab1\obj\x86\Debug\Lab1.pdb
